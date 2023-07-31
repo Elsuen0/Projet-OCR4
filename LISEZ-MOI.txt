@@ -1,0 +1,5 @@
+Bonjour ! Je vous mets à disposition tous les fichiers nécessaires dans différents formats. Les fichiers de base sont en format .key, qui contiennent toutes les animations et sont visuellement plus attrayants.
+Cependant, afin de garantir la compatibilité, je vous ai également fourni les fichiers aux formats PPTX et PDF. Vous devrez simplement déplacer certains éléments qui se superposent car les animations ne se convertissent pas d'un format à l'autre.
+
+Merci de votre compréhension !
+Lucas Capart
